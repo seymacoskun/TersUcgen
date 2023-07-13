@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Ucgen {
-
+public class Ucgen
+{
 	public static void main(String[] args)
 	{
 		Scanner s = new Scanner(System.in);
